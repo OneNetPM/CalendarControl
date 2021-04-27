@@ -1,0 +1,9 @@
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\bin\Debug\CalenderCtrl.exe.config
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\obj\Debug\CalenderCtrl.Form1.resources
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\obj\Debug\LJYControls.LJYDateTime.resources
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\obj\Debug\CalenderCtrl.Properties.Resources.resources
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\obj\Debug\CalenderCtrl.csproj.GenerateResource.Cache
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\bin\Debug\CalenderCtrl.exe
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\bin\Debug\CalenderCtrl.pdb
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\obj\Debug\CalenderCtrl.exe
+c:\users\jingyou\documents\visual studio 2012\Projects\CalenderCtrl\CalenderCtrl\obj\Debug\CalenderCtrl.pdb
